@@ -18,7 +18,7 @@ export default function Nav(props: Props) {
       </Head>
       <nav>
         <Link href="/">
-          <Image alt="Netlify logo" height={64} src={logoLight} />
+          <Image alt="Netlify logo" height={64} src={logoLight} /> Wassupppp
         </Link>
       </nav>
     </header>
